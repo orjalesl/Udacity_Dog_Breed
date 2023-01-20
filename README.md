@@ -64,3 +64,4 @@ To further improve the algorithm, I would consider the following:
 3. Use other CNN algorithms such as ResNet-50, Inception, or Xception to see which one  could perform better
 
 
+You can find my blog post on Medium: https://medium.com/@lucas.orjales97/can-a-neural-network-predict-dog-breeds-2ea972858b83
