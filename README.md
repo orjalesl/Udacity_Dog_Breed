@@ -55,12 +55,12 @@ from sklearn.metrics import classification_report
 
 2. Save the files in the same repository as the python file
 
-3. Download the necessary libraries mentioned above.
+3. Download the necessary libraries mentioned above
 
 ## Consideration
 To further improve the algorithm, I would consider the following:
 1. Get more volume of data for the dog breeds in the model and make sure they are all represented evenly
 2. Use other layers in the model to see if other parameters would provide a higher precision score
-3. Use other CNN algorithms such as ResNet-50, Inception, or Xception to see which one  could perform better.
+3. Use other CNN algorithms such as ResNet-50, Inception, or Xception to see which one  could perform better
 
 
